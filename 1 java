@@ -1,0 +1,8 @@
+ class HelloWorld       //定义类 HelloWorld 
+{  
+    public static void main(String args[])    //程序起始点
+{ 
+        // 控制台输出 Hello World!  
+        System.out.println("Hello World!"); 
+     } 
+}  
